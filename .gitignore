@@ -1,5 +1,7 @@
-*.log
+dist/
+build/
+*.pyd
+*.dll
+__pycache__/
+*.egg-info/
 *.pyc
-*.py~
-*.pyc~
-
